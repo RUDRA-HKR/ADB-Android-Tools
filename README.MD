@@ -1,5 +1,10 @@
 Termux mein ADB (Android Debug Bridge) ka use karke aap Android device ko control kar sakte hain. Yahaan kuch basic commands hain jo Termux mein ADB ke liye use kiye ja sakte hain:
 
+**ADB Android Tools Installation:**
+1. `apt update && apt upgrade -y`
+2. `pkg install android-tools` & `pkg install adb`
+3. `adb version` is `ADB Version`
+
 1. **Connected Devices ko List karna:**
    ```
    adb devices

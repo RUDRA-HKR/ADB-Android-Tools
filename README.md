@@ -198,4 +198,7 @@ Termux mein ADB (Android Debug Bridge) ka use karke aap Android device ko contro
    ```
    Device ko restart aur shutdown karne ke liye use hota hai.
 
-Join My Telegram Channel <storage><a href="https://telegram.me/RUDRA_HKR0"<RUDRA-HKR><a><storage></details>
+Join My Telegram Channel <details>
+<summary>:zap: Author :</summary>
+- <strong><a href="https://github.com/RUDRA-HKR">RUDRA-HKR</a></strong>
+</details>
